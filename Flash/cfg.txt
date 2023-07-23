@@ -1,0 +1,4 @@
+ip = 192.168.1
+PATH_TO_APP_DIR = C:\adb_run\app
+WORD_FOR_CONNECT = connected
+RANGE = 0,100
